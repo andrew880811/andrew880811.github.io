@@ -1,0 +1,81 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="flymetothemoon.com" resolutions="1x,2x" timestamp="1554978393786">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="fly-me-to-the-moon.css" crc="218046623" ref="fly-me-to-the-moon"/>
+    <file name="index.css" crc="302584088" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fly-me-to-the-moon"/>
+    <file name="museutils.js" crc="340535759" ref="index:fly-me-to-the-moon"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fly-me-to-the-moon"/>
+    <file name="museconfig.js" crc="310584261" ref="index:fly-me-to-the-moon"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:fly-me-to-the-moon"/>
+    <file name="require.js" crc="7928878" ref="index:fly-me-to-the-moon"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="fly-me-to-the-moon"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="fly-me-to-the-moon"/>
+  </folder>
+  <folder name="images">
+    <file name="underground.jpg" crc="4089040446" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 3.png" crc="108163982" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 3_2x.png" crc="108163982" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="city.jpg" crc="207136473" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 2.png" crc="4011361204" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 2_2x.png" crc="4011361204" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 6.png" crc="4229022350" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 6_2x.png" crc="4229022350" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="restaruant.jpg" crc="3798014040" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 7.png" crc="4225580719" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 7_2x.png" crc="4225580719" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="spa.jpg" crc="222108545" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 8.png" crc="73772478" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 8_2x.png" crc="73772478" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="traffic.jpg" crc="292547962" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 18.png" crc="3802369237" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 18_2x.png" crc="10970971" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="dream punk.jpg" crc="377955750" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 20.png" crc="191198828" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+    <file name="資產 20_2x.png" crc="3952435536" seo="true" ref="fly-me-to-the-moon">
+      <caption webpage="fly-me-to-the-moon" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="421793137" seo="true" mt="1554119292796" redirect="false"/>
+  <file name="fly-me-to-the-moon.html" crc="119372221" seo="true" mt="1554122720971" redirect="true"/>
+</manifest>
